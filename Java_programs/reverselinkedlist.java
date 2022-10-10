@@ -1,4 +1,6 @@
- public static class ListNode {
+ 
+ class reverselinkedlist{
+    public static class ListNode {
           int val;
           ListNode next;
           ListNode() {}
@@ -18,3 +20,4 @@
         }
         return head;
     }
+}
