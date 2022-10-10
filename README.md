@@ -9,8 +9,13 @@
 
 1. Fork this repo.
 2. Clone the repo
-```git clone <YOUR_FORKED_REPO_URL>```
-3. CD into the specific directory. Create a new branch of the master ```git branch <NEW_BRANCH_NAME>```
+```
+git clone <YOUR_FORKED_REPO_URL>
+```
+3. CD into the specific directory. Create a new branch of the master 
+```
+git branch <NEW_BRANCH_NAME>
+```
 4. You can check which branch you are in using 
 ```
 git branch
