@@ -4,9 +4,6 @@
   <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/a/a7/Survey_Corps_Logo.png/revision/latest?cb=20140307090257" width="200" height="200"/>
 </p>
 
-## Welcome to the world of Open Source
-
-Coder2hacker platform will provide guidance to beginner developers and make them understand the benefits of using and exploring open source programs and platforms. The aim of this repo is to make a complete beginner make his/her first contribution and get acquainted with the processes involved throughout their journey in the world of open source.
 
 ## Getting Started
 
