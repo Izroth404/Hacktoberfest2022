@@ -22,7 +22,11 @@ Now checkout to the new branch created.
 git checkout <BRANCH_NAME>
 ```
 
-5. Stage the changes by using the command ###git add ..
+5. Stage the changes by using the command 
+```
+git add
+```
+
 6. Commit the changes made by you using the command 
 ```
 git commit -m "<YOUR_MESSAGE>"
