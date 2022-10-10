@@ -1,7 +1,7 @@
 # Explore Open Source
 # Hacktoberfest 2022
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/a/a7/Survey_Corps_Logo.png/revision/latest?cb=20140307090257" />
+  <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/a/a7/Survey_Corps_Logo.png/revision/latest?cb=20140307090257" width="200" height="400"/>
 </p>
 
 ## Welcome to the world of Open Source
