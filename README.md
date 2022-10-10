@@ -47,4 +47,5 @@ git push --set-upstream origin <branch-name>
 Compare & pull request
 ``` 
 button will appear. 
+
 9. Click on that button and you will be taken to a page where you can create a pull request. After you have submitted the PR, we will review your work and approve the PR and merge it with the master branch.
