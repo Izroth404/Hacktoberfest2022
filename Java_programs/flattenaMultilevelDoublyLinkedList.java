@@ -1,5 +1,5 @@
+package Hacktoberfest2022.Java_programs;
 // Flatten a multilevel doubly linked list problem of Leetcode
-
 class Solution {
     public Node flatten(Node head) {
         Node cur = head;
