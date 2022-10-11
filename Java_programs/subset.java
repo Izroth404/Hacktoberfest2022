@@ -40,8 +40,9 @@ public class targetSumSubset {
                     if(j>=val){
                         if(grid[i-1][j-val]==1)
                             grid[i][j]=1;
-                    }
+                    } 
                 }
+                
             }
         }
         return grid[len][target];
