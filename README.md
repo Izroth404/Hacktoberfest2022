@@ -1,7 +1,11 @@
-# Explore Open Source
+# WARNING!!
+Please Keep the repo clean. Code only in the designated folder or create your own folder if you wish. 
+
+##HAPPY CODING. 
+
 # Hacktoberfest 2022
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/a/a7/Survey_Corps_Logo.png/revision/latest?cb=20140307090257" width="200" height="200"/>
+  <img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg"/>
 </p>
 
 
