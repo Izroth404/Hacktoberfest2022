@@ -1,7 +1,7 @@
 # WARNING!!
 Please Keep the repo clean. Code only in the designated folder or create your own folder if you wish. 
 
-##HAPPY CODING. 
+## HAPPY CODING. 
 
 # Hacktoberfest 2022
 <p align="center">
